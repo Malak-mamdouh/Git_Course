@@ -1,0 +1,7 @@
+stash => to save some updates locally (do not be committed)
+stash isn`t branch-specific, but per-repository
+git stash list
+git stash pop
+git stash to save updates
+git stash save "name"
+difference between pop => pull stash and remove it from list , apply => pull stash and doesnt remove it
