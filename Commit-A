@@ -1,1 +1,4 @@
-Commit A
+Commit stash not A
+
+// this line to test stash
+init stash

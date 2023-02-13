@@ -1,1 +1,4 @@
 Commit B-stash
+
+// this line to test stash in another file
+init stash
